@@ -6,3 +6,7 @@ h1{
   text-align: center;
   background-image: url("http://www.mysouthlakenews.com/wp-content/uploads/2012/11/Robotics-2011.jpg");
 }
+header nav{
+ display: flex;
+ justify-content: flex-end;
+}

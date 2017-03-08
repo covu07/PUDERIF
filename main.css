@@ -3,6 +3,9 @@ body{
 
 h1{
 }
+header{
+  padding: 20px;
+}
 header .row{
   display: flex;
   align-items: center;

@@ -5,6 +5,7 @@ h1{
 }
 header{
   padding: 20px;
+  background-color: rgb(20,20,20);
 }
 header .row{
   align-items: center;

@@ -19,3 +19,8 @@ header p{
   margin: 0;
   font-size: 60px;
 }
+header a{
+  height: 60px;
+  line-height: 60px;
+    
+}

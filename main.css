@@ -7,11 +7,11 @@ header{
   padding: 20px;
 }
 header .row{
-  display: flex;
+  display: inline;
   align-items: center;
 }
 header nav{
- display: flex;
+ display: inline;
  justify-content: flex-end;
 }
 header p{

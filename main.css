@@ -12,7 +12,8 @@ header{
   background-image: url("http://www.mysouthlakenews.com/wp-content/uploads/2012/11/Robotics-2011.jpg");
   display: flex;
   align-items:center;
-  height: 500px;
+  background-size: cover;
+  height: 500;
   
 }
 .bar{
